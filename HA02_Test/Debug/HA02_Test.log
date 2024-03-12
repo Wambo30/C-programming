@@ -1,0 +1,8 @@
+﻿  mainTest.cpp
+  mainTest2.cpp
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\HA02_Test\mainTest2.cpp(31,25): error C2131: Ausdruck wurde nicht zu einer Konstanten ausgewertet.
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\HA02_Test\mainTest2.cpp(31,18): message : Der Fehler wurde durch einen Lesezugriff auf eine Variable außerhalb ihrer Lebensdauer verursacht.
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\HA02_Test\mainTest2.cpp(31,18): message : siehe Verwendung von "n"
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\HA02_Test\mainTest2.cpp(33,46): error C3863: Der Arraytyp "int [n+4/5]" kann nicht zugewiesen werden.
+  Code wird generiert...
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\HA02_Test\mainTest2.cpp(36,50): error C3863: Der Arraytyp "int [n+4/5]" kann nicht zugewiesen werden.

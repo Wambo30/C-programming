@@ -1,0 +1,7 @@
+﻿  mainVersion2.cpp
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\HA01_Version2\mainVersion2.cpp(37,12): warning C4244: "Argument": Konvertierung von "double" in "const T", möglicher Datenverlust
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\HA01_Version2\mainVersion2.cpp(37,12): warning C4244:         with
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\HA01_Version2\mainVersion2.cpp(37,12): warning C4244:         [
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\HA01_Version2\mainVersion2.cpp(37,12): warning C4244:             T=char
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\HA01_Version2\mainVersion2.cpp(37,12): warning C4244:         ]
+  HA01_Version2.vcxproj -> C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\Datenstrukturen und Algo SS20\Debug\HA01_Version2.exe

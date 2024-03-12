@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\</FILEPATH>
+      <FILENAME>Graph.cpp</FILENAME>
+      <LINE>135</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26498</DEFECTCODE>
+    <DESCRIPTION>Die Funktion "std::numeric_limits&lt;unsigned __int64&gt;::max" ist als "constexpr" markiert. Markieren Sie die Variable "MAX" als "constexpr", wenn eine Kompilierzeitauswertung gewünscht wird (con.5).</DESCRIPTION>
+    <FUNCTION>Graph::dijkstra</FUNCTION>
+    <DECORATED>?dijkstra@Graph@@QEAAX_K0@Z</DECORATED>
+    <FUNCLINE>131</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\</FILEPATH>
+      <FILENAME>Graph.cpp</FILENAME>
+      <LINE>251</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26498</DEFECTCODE>
+    <DESCRIPTION>Die Funktion "std::numeric_limits&lt;unsigned __int64&gt;::max" ist als "constexpr" markiert. Markieren Sie die Variable "MAX" als "constexpr", wenn eine Kompilierzeitauswertung gewünscht wird (con.5).</DESCRIPTION>
+    <FUNCTION>Graph::prim</FUNCTION>
+    <DECORATED>?prim@Graph@@QEAAX_K@Z</DECORATED>
+    <FUNCLINE>247</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

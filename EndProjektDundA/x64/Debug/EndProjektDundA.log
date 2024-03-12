@@ -1,0 +1,27 @@
+﻿  DAProjekt.cpp
+  Graph-Main.cpp
+  Graph.cpp
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(157,32): warning C4309: "Argument": Verkürzung eines konstanten Wertes
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(210,52): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(211,41): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(214,52): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(215,41): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(231,27): warning C4267: "Argument": Konvertierung von "size_t" nach "const _Ty", Datenverlust möglich
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(231,27): warning C4267:         with
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(231,27): warning C4267:         [
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(231,27): warning C4267:             _Ty=int
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(231,27): warning C4267:         ]
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(232,22): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(241,37): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(273,31): warning C4309: "Argument": Verkürzung eines konstanten Wertes
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(325,53): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(326,41): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(330,53): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  GraphReader.cpp
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.cpp(331,41): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\GraphReader.cpp(107,24): warning C4244: "Initialisierung": Konvertierung von "size_t" in "double", möglicher Datenverlust
+  KruskalMST.cpp
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\GraphReader.cpp(108,24): warning C4244: "Initialisierung": Konvertierung von "size_t" in "double", möglicher Datenverlust
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\KruskalMST.cpp(10,16): error C2039: "reset": Ist kein Element von "Graph"
+  Kompilieren...
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\EndProjektDundA\Graph.h(68): message : Siehe Deklaration von "Graph"
