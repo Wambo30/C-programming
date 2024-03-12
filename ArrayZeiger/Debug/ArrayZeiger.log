@@ -1,0 +1,2 @@
+﻿  ArrayZeigerMain.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog1b\arrayzeiger\arrayzeigermain.cpp(8): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.

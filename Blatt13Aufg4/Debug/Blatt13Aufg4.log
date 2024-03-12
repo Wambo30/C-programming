@@ -1,0 +1,20 @@
+﻿  Blatt13Aufg4.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(51): error C2082: Neudefinition des formalen Parameters "zeichen"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(52): error C2446: "<=": Keine Konvertierung von "int" in "const char *"
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(52): note: Die Konvertierung eines ganzzahligen Typs in einen Zeigertyp erfordert ein reinterpret_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(52): error C2446: "<=": Keine Konvertierung von "const char *" in "int"
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(52): note: Es gibt keinen Kontext, in dem diese Konvertierung möglich ist
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(53): error C2446: "<=": Keine Konvertierung von "int" in "const char *"
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(53): note: Die Konvertierung eines ganzzahligen Typs in einen Zeigertyp erfordert ein reinterpret_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(53): error C2446: "<=": Keine Konvertierung von "const char *" in "int"
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(53): note: Es gibt keinen Kontext, in dem diese Konvertierung möglich ist
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(55): error C2446: "<=": Keine Konvertierung von "int" in "const char *"
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(55): note: Die Konvertierung eines ganzzahligen Typs in einen Zeigertyp erfordert ein reinterpret_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(55): error C2446: "<=": Keine Konvertierung von "const char *" in "int"
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(55): note: Es gibt keinen Kontext, in dem diese Konvertierung möglich ist
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(56): error C2446: "<=": Keine Konvertierung von "int" in "const char *"
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(56): note: Die Konvertierung eines ganzzahligen Typs in einen Zeigertyp erfordert ein reinterpret_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(56): error C2446: "<=": Keine Konvertierung von "const char *" in "int"
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(56): note: Es gibt keinen Kontext, in dem diese Konvertierung möglich ist
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(74): error C2446: "==": Keine Konvertierung von "const char *" in "int"
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt13aufg4\blatt13aufg4.cpp(74): note: Es gibt keinen Kontext, in dem diese Konvertierung möglich ist

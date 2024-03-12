@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Blatt13.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  potenz.cpp
+  Blatt13.vcxproj -> C:\Users\X220\Documents\Visual Studio 2015\Projects\Prog1b\Debug\Blatt13PotenzCode.exe
+  Blatt13.vcxproj -> C:\Users\X220\Documents\Visual Studio 2015\Projects\Prog1b\Debug\Blatt13PotenzCode.pdb (Full PDB)
