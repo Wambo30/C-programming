@@ -1,0 +1,10 @@
+﻿  sort-main-loesung.cpp
+C:\Users\X220\Desktop\Oki sem 6 - SS20\D&A - SS20\3.arbeitsblatt\sort-main-loesung.cpp(121,15): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\X220\Desktop\Oki sem 6 - SS20\D&A - SS20\3.arbeitsblatt\sort-main-loesung.cpp(33,21): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\X220\Desktop\Oki sem 6 - SS20\D&A - SS20\3.arbeitsblatt\sort-main-loesung.cpp(130): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void bubbleSort<int>(T *,size_t)" der Funktions-Vorlage.
+C:\Users\X220\Desktop\Oki sem 6 - SS20\D&A - SS20\3.arbeitsblatt\sort-main-loesung.cpp(130): message :         with
+C:\Users\X220\Desktop\Oki sem 6 - SS20\D&A - SS20\3.arbeitsblatt\sort-main-loesung.cpp(130): message :         [
+C:\Users\X220\Desktop\Oki sem 6 - SS20\D&A - SS20\3.arbeitsblatt\sort-main-loesung.cpp(130): message :             T=int
+C:\Users\X220\Desktop\Oki sem 6 - SS20\D&A - SS20\3.arbeitsblatt\sort-main-loesung.cpp(130): message :         ]
+sort-stl-main.obj : error LNK2005: _main ist bereits in sort-main-loesung.obj definiert.
+C:\Users\X220\Documents\Visual Studio 2019\Projects\Datenstrukturen und Algo SS20\Datenstrukturen und Algo SS20\Debug\Blatt3_DundA.exe : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.
