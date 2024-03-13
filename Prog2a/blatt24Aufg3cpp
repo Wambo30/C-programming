@@ -1,0 +1,89 @@
+﻿/*
+
+3.aufgabe) Schreiben Sie die im folgende Codestuck aufgerufene Funktion
+tauscheBeiBedarf()so, dass dieses Codestuck am Ende den text[] nach 
+aufsteigenden ASCII-Zeichenwerten geordnet ausgibt (s.u.):
+
+	char text[] = "vieleBuchstaben" ;
+	for ( int i = 0 ;  text[ i ] != ’\0’ ;  ++i )
+	for ( int j = i + 1 ;  text[ j ] != ’\0’ ;  ++j )
+	tauscheBeiBedarf( text[ i ], text[ j ] ) ;
+	cout << text << endl ;
+
+→Babceeehilnstuv
+(Tipp: Was ist denn der
+”Bedarfsfall“, bei dem getauscht wird?
+
+
+*/
+
+
+	//char text[i]
+	//vergleich über ascii zeichen dh umwandlung von char zu int
+	/*
+	
+	char text[] = "vieleBuchstaben";
+	cout << "Zeichen = " << int(text[0]) << endl;
+	
+	THEORIE dazu: zieltyp(wert)
+	
+	*/
+
+
+
+	//vergleich 0 te stelle mit erster 
+	//vergleich 0 te stelle mit zweiter
+	//vergleich 0 te stelle mit dritter
+	//vergleich 0 te stelle mit vierter...bis zum ende
+
+	// wenn verglichen wurde dann kleinsten eintrag an 0 stelle in array eintragen
+
+	// dasselbe dann : vergleich erste stelle mit 2. stelle 
+	// vergleich erste stelle mit 3. stelle usw....bis zum ende
+
+	//char text[i]
+
+#include <iostream>
+using namespace std;
+void tauscheBeiBedarf(char& a, char& b);
+
+
+int main()
+{
+		char text[] = "vieleBuchstaben";
+		for (int i = 0; text[i] != '\0'; ++i)
+				for (int j = i + 1; text[j] != '\0'; ++j)	//nur ' ' anführungszeichen akzeptiert
+					tauscheBeiBedarf(text[i], text[j]);
+		
+		cout << text << endl;
+
+
+			return 0;
+
+}
+
+void tauscheBeiBedarf(char& a, char& b)	// wegen referenz benutzt man hier wirklich die variable
+// und NICHT den wert von text[0]!! dh im hintergrund läuft folgendes automatisch
+//char& a =text[i] 
+//char& b = text[j]
+//==> dh diese zuweisungen passieren NUR in dieser fkt also lokal und kann NICHT außerhalb von der fkt
+// zugegriffen werden
+//==> dh char& hat irgendwo eine speicheradresse wo der wert abgespeichert wird
+// OHNE & geht das aber nicht! warum nicht? 
+{
+	if (a > b)
+	{
+		char temp = a;
+		a = b;
+		b = temp;
+// wollen ja den kleineren wert mit anderen ersetzen daher MUSS man diesen dreiertausch machen!
+// warum? da zb folgender code nicht geht:
+// a=b;
+//b=a; ==> warum? da der wert der einen variable mit dem des anderen einfach überschrieben wird!
+// somit geht der wert dann verloren. dh man braucht also eine zwischenvariable damit das klappt
+
+	}
+
+
+
+}

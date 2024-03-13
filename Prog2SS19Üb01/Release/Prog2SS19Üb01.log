@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Prog2aSS19Üb01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SS19üb1Aufg6.cpp
+  SS19üb1Aufg6Main.cpp
+  Code wird generiert.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  Prog2SS19Üb01.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2a\Release\Prog2aSS19Üb01Aufg6.exe
+  Prog2SS19Üb01.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2a\Release\Prog2aSS19Üb01Aufg6.pdb (Full PDB)
