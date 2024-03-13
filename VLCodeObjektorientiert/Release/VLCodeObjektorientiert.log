@@ -1,0 +1,12 @@
+﻿  VLCodeObjektorientiert.cpp
+VLCodeObjektorientiert.cpp(105): error C2065: "dateiName": nichtdeklarierter Bezeichner
+VLCodeObjektorientiert.cpp(105): error C2079: "datei" verwendet undefiniertes class "std::basic_ifstream<char,std::char_traits<char>>"
+VLCodeObjektorientiert.cpp(108): error C2672: "getline": keine übereinstimmende überladene Funktion gefunden
+VLCodeObjektorientiert.cpp(108): error C2784: "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)": template-Argument für "std::basic_istream<_Elem,_Traits> &" konnte nicht von "int" hergeleitet werden.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(157): note: Siehe Deklaration von "std::getline"
+VLCodeObjektorientiert.cpp(108): error C2780: "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)": Erwartet 3 Argumente - 2 unterstützt
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(146): note: Siehe Deklaration von "std::getline"
+VLCodeObjektorientiert.cpp(108): error C2784: "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)": template-Argument für "std::basic_istream<_Elem,_Traits> &&" konnte nicht von "int" hergeleitet werden.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(126): note: Siehe Deklaration von "std::getline"
+VLCodeObjektorientiert.cpp(108): error C2780: "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)": Erwartet 3 Argumente - 2 unterstützt
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(73): note: Siehe Deklaration von "std::getline"
