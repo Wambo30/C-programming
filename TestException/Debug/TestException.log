@@ -1,0 +1,5 @@
+﻿  TestMod.cpp
+  TestException-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\testexception\testexception-main.cpp(55): error C2374: "b": Neudefinition; Mehrfachinitialisierung
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\testexception\testexception-main.cpp(49): note: Siehe Deklaration von "b"
+  Code wird generiert...
