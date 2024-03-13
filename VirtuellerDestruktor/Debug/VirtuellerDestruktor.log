@@ -1,0 +1,6 @@
+﻿  TierDestr.cpp
+  TierDestr-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\virtuellerdestruktor\tierdestr-main.cpp(17): warning C4930: "Hund2 tier1(void)": Funktion mit Prototyp wurde nicht aufgerufen (war eine Variablendefinition gemeint?)
+  Code wird generiert...
+  VirtuellerDestruktor.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\VirtuellerDestruktor.exe
+  VirtuellerDestruktor.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\VirtuellerDestruktor.pdb (Full PDB)
