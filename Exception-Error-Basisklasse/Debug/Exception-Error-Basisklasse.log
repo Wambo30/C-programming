@@ -1,0 +1,18 @@
+﻿  RangeError.cpp
+  Error.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\exception-error-basisklasse\calculator.h(14): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\exception-error-basisklasse\calculator.h(15): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\exception-error-basisklasse\error.cpp(26): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: Siehe Deklaration von "sprintf"
+  Error-Basisklasse-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\exception-error-basisklasse\error-basisklasse-main.cpp(36): error C2039: "meldeFehler": Ist kein Element von "std::exception"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: Siehe Deklaration von "std::exception"
+  Calculatormain.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\exception-error-basisklasse\calculator.h(14): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\exception-error-basisklasse\calculator.h(15): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+  Calculator.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\exception-error-basisklasse\calculator.h(14): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\exception-error-basisklasse\calculator.h(15): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\exception-error-basisklasse\calculator.cpp(13): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\exception-error-basisklasse\calculator.cpp(20): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+  Code wird generiert...

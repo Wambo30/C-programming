@@ -1,0 +1,45 @@
+﻿  QuadratischNr2.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\quadratischnr2.cpp(21): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  Quadratisch.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\polynomha01.h(14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\quadratisch.cpp(20): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  Potenz.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\potenz.cpp(11): error C2512: "Funktion": Kein geeigneter Standardkonstruktor verfügbar
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.h(13): note: Siehe Deklaration von "Funktion"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\potenz.cpp(27): error C2600: "Potenz::Potenz": Vom Compiler generierte spezielle Memberfunktion kann nicht definiert werden (vorherige Deklaration in der Klasse erforderlich)
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\potenz.cpp(27): error C2512: "Funktion": Kein geeigneter Standardkonstruktor verfügbar
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.h(13): note: Siehe Deklaration von "Funktion"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\potenz.cpp(27): note: Diese Diagnose trat in der vom Compiler generierten Funktion "Potenz::Potenz(const Potenz &)" auf.
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\potenz.cpp(32): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\potenz.cpp(32): note: Diese Diagnose trat in der vom Compiler generierten Funktion "Potenz::Potenz(const Potenz &)" auf.
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\potenz.cpp(40): error C2600: "Potenz::operator =": Vom Compiler generierte spezielle Memberfunktion kann nicht definiert werden (vorherige Deklaration in der Klasse erforderlich)
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\potenz.cpp(49): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\potenz.cpp(49): note: Diese Diagnose trat in der vom Compiler generierten Funktion "Potenz &Potenz::operator =(const Potenz &)" auf.
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\potenz.cpp(74): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  PolynomHA01.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\polynomha01.h(14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\polynomha01.cpp(37): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\polynomha01.cpp(54): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\polynomha01.cpp(88): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\polynomha01.cpp(100): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\polynomha01.cpp(117): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  PolynomHA01-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\polynomha01.h(14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  LinearNr2.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\linearnr2.cpp(20): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  Linear.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\polynomha01.h(14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\linear.cpp(20): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  Funktion.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.cpp(35): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.cpp(52): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.cpp(77): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.cpp(89): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.cpp(115): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.cpp(116): error C2065: "EPS": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.cpp(135): error C3861: "to_string": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.cpp(137): error C3861: "to_string": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\funktion.cpp(142): error C3861: "to_string": Bezeichner wurde nicht gefunden.
+  Funktion-main.cpp
+  Code wird generiert...
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha01_prog2b\polynomha01.cpp(80): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts ": koef" wird zurückgegeben

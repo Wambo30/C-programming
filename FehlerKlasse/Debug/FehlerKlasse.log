@@ -1,0 +1,6 @@
+﻿  NullDivisorError.cpp
+  NegativNumberError.cpp
+  error-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\fehlerklasse\error-main.cpp(21): error C2512: "NullDivisorError": Kein geeigneter Standardkonstruktor verfügbar
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\fehlerklasse\error-main.cpp(21): note: Quelltyp konnte von keinem Konstruktor angenommen werden, oder die Überladungsauflösung des Konstruktors ist mehrdeutig
+  Code wird generiert...
