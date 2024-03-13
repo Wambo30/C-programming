@@ -1,0 +1,19 @@
+﻿  Blatt18Aufg2.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(12): error C2065: "cout": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(13): error C2065: "cin": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(16): error C2143: Syntaxfehler: Es fehlt ";" vor "for"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(17): error C3861: "binom": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(17): error C3861: "breite": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(18): error C2065: "k": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(18): error C3861: "binom": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(18): error C3861: "breite": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(23): error C2065: "cout": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(23): error C3861: "setw": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(23): error C3861: "binom": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(24): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "setw"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(24): error C2065: "k": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(24): error C3861: "setw": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(24): error C3861: "binom": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(25): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "cout"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(25): error C2065: "cout": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt18aufg2\blatt18aufg2.cpp(25): error C2065: "endl": nichtdeklarierter Bezeichner

@@ -1,0 +1,4 @@
+﻿  nachbarn.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt22aufg6\nachbarn.cpp(56): warning C4101: "punkte": Unreferenzierte lokale Variable
+  Blatt22Aufg6.vcxproj -> C:\Users\X220\Documents\Visual Studio 2015\Projects\Prog1b\Debug\Blatt22Aufg6.exe
+  Blatt22Aufg6.vcxproj -> C:\Users\X220\Documents\Visual Studio 2015\Projects\Prog1b\Debug\Blatt22Aufg6.pdb (Full PDB)

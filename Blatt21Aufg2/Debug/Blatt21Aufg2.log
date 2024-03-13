@@ -1,0 +1,39 @@
+﻿  Blatt21Aufg2.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(48): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(177): error C2059: Syntaxfehler: "using namespace"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(177): error C2143: Syntaxfehler: Es fehlt ")" vor ";"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(191): error C2084: Funktion "bool istNatuerlich(double)" hat bereits einen Funktionsrumpf
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(46): note: Siehe vorherige Definition von "istNatuerlich"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(192): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(211): error C2084: Funktion "double mod(double,double)" hat bereits einen Funktionsrumpf
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(66): note: Siehe vorherige Definition von "mod"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(232): error C2084: Funktion "__int64 ggT(__int64,__int64)" hat bereits einen Funktionsrumpf
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(87): note: Siehe vorherige Definition von "ggT"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(254): error C2084: Funktion "__int64 binom(int,int)" hat bereits einen Funktionsrumpf
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(109): note: Siehe vorherige Definition von "binom"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(280): error C2370: "ADDITION": Neudefinition; unterschiedliche Speicherklassen
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(136): note: Siehe Deklaration von "ADDITION"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(281): error C2370: "SUBTRAKTION": Neudefinition; unterschiedliche Speicherklassen
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(137): note: Siehe Deklaration von "SUBTRAKTION"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(282): error C2370: "MULTIPLIKATION": Neudefinition; unterschiedliche Speicherklassen
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(138): note: Siehe Deklaration von "MULTIPLIKATION"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(283): error C2370: "DIVISION": Neudefinition; unterschiedliche Speicherklassen
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(139): note: Siehe Deklaration von "DIVISION"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(284): error C2370: "MODULAR": Neudefinition; unterschiedliche Speicherklassen
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(140): note: Siehe Deklaration von "MODULAR"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(285): error C2370: "GEMEINSAMER_TEILER": Neudefinition; unterschiedliche Speicherklassen
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(141): note: Siehe Deklaration von "GEMEINSAMER_TEILER"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(286): error C2370: "GEM_TEILER": Neudefinition; unterschiedliche Speicherklassen
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(142): note: Siehe Deklaration von "GEM_TEILER"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(287): error C2370: "BIONOMIAL_KOEFFIZIENT": Neudefinition; unterschiedliche Speicherklassen
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(143): note: Siehe Deklaration von "BIONOMIAL_KOEFFIZIENT"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(288): error C2370: "BINOM_KOEFF": Neudefinition; unterschiedliche Speicherklassen
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(144): note: Siehe Deklaration von "BINOM_KOEFF"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(340): error C2568: "<<": Auflösung der Funktionsüberladung nicht möglich
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(340): note: kann "double mod(double,double)" sein
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(349): error C2568: "<<": Auflösung der Funktionsüberladung nicht möglich
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(349): note: kann "__int64 ggT(__int64,__int64)" sein
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(360): error C2568: "<<": Auflösung der Funktionsüberladung nicht möglich
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(360): note: kann "__int64 binom(int,int)" sein
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(379): error C2059: Syntaxfehler: ")"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\blatt21aufg2\blatt21aufg2.cpp(380): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
