@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog1b\typumwandlungen\main.cpp(45): error C2601: "fastGleich": Lokale Funktionsdefinitionen sind unzulässig
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\typumwandlungen\main.cpp(9): note: Diese Zeile enthält eine "{", die keine Entsprechung hat.
+c:\users\x220\documents\visual studio 2015\projects\prog1b\typumwandlungen\main.cpp(46): error C2065: "FAKTOR": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog1b\typumwandlungen\main.cpp(46): error C2789: MAX_DIFF: Ein Objekt eines durch eine Konstante qualifizierten Typs muss initialisiert werden.
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\typumwandlungen\main.cpp(46): note: Siehe Deklaration von "MAX_DIFF"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\typumwandlungen\main.cpp(47): error C3861: "betrag": Bezeichner wurde nicht gefunden.

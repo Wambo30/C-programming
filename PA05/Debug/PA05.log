@@ -1,0 +1,4 @@
+﻿  statistik.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog1b\pa05\statistik.cpp(29): error C2370: "NSPALTEN": Neudefinition; unterschiedliche Speicherklassen
+  c:\users\x220\documents\visual studio 2015\projects\prog1b\pa05\projekt5.h(10): note: Siehe Deklaration von "NSPALTEN"
+c:\users\x220\documents\visual studio 2015\projects\prog1b\pa05\statistik.cpp(105): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
