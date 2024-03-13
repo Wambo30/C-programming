@@ -1,0 +1,11 @@
+﻿  Winzig.cpp
+  Winzig-main.cpp
+  Fehler.cpp
+  Datum2.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02prog2b\datum2.cpp(8): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02prog2b\datum2.cpp(8): note: Befehlszeilenargumente: siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+  Datum2-main.cpp
+  DateError.cpp
+  Code wird generiert...
+Winzig-main.obj : error LNK2005: _main ist bereits in Datum2-main.obj definiert.
+C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\HA02Prog2b.exe : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.

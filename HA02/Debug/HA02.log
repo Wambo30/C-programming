@@ -1,0 +1,17 @@
+﻿  Polynom.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02\polynom.cpp(95): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02\polynom.cpp(112): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02\polynom.cpp(403): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  Polynom-main.cpp
+  Dual.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02\dual.cpp(52): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02\dual.cpp(66): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02\dual.cpp(133): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02\dual.cpp(134): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02\dual.cpp(143): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02\dual.cpp(144): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ha02\dual.cpp(219): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Dual-main.cpp
+  Code wird generiert...
+Polynom-main.obj : error LNK2005: _main ist bereits in Dual-main.obj definiert.
+C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\HA02.exe : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.
