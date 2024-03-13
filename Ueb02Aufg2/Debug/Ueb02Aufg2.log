@@ -1,0 +1,7 @@
+﻿  Intervall.cpp
+  Intervall-maincpp.cpp
+  Grenze.cpp
+  Grenze-main.cpp
+  Code wird generiert...
+Intervall-maincpp.obj : error LNK2005: _main ist bereits in Grenze-main.obj definiert.
+C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\Ueb02Aufg2.exe : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.

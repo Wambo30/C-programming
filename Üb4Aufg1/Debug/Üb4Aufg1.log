@@ -1,0 +1,5 @@
+﻿  Polynom2.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\üb4aufg1\polynom2.cpp(199): error C2660: "Polynom2::gradRunterSetzen": Funktion akzeptiert keine 0 Argumente
+  Polynom2-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\üb4aufg1\polynom2-main.cpp(24): error C2059: Syntaxfehler: "<<"
+  Code wird generiert...
