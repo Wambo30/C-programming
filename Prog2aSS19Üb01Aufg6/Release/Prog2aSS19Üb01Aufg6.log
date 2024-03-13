@@ -1,0 +1,4 @@
+﻿  Prog2aSS19Üb01Aufg6.cpp
+  Prog2aSS19Üb01Aufg6Main.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "_main".
+C:\Users\X220\documents\visual studio 2015\Projects\Prog2a\Release\Prog2aSS19Üb01Aufg6.exe : fatal error LNK1120: 1 nicht aufgelöste Externe

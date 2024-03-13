@@ -1,0 +1,8 @@
+﻿  PolynomHA02.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\polynomha02\polynomha02.cpp(95): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\polynomha02\polynomha02.cpp(112): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\polynomha02\polynomha02.cpp(403): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  PolynomHA02-maincpp.cpp
+  Code wird generiert...
+  PolynomHA02.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\PolynomHA02.exe
+  PolynomHA02.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\PolynomHA02.pdb (Full PDB)
