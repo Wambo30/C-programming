@@ -1,0 +1,36 @@
+﻿  Rational.cpp
+  Rational-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\rational\rational-main.cpp(63): error C2679: Binärer Operator "<<": Es konnte kein Operator gefunden werden, der einen rechtsseitigen Operanden vom Typ "Rational" akzeptiert (oder keine geeignete Konvertierung möglich)
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(495): note: kann "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)" sein
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(475): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(455): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(435): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(415): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(395): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(375): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(355): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(335): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(315): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(290): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(270): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(236): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(216): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(209): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(202): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(196): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(1019): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(981): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>,Rational>(std::basic_ostream<char,std::char_traits<char>> &&,const _Ty &)"
+          with
+          [
+              _Ty=Rational
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(971): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(964): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(957): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(950): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(824): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(777): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(739): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(692): note: oder "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\rational\rational-main.cpp(63): note: bei Anpassung der Argumentliste "(std::basic_ostream<char,std::char_traits<char>>, Rational)"
+  Code wird generiert...

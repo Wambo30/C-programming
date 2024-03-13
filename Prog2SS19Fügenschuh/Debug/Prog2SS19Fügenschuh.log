@@ -1,0 +1,27 @@
+﻿  zeichen.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(9): error C2440: "Initialisierung": "char []" kann nicht in "char" konvertiert werden
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(9): note: Es gibt keinen Kontext, in dem diese Konvertierung möglich ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(11): error C2059: Syntaxfehler: ";"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(12): error C2059: Syntaxfehler: "}"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(20): error C2109: Index erfordert ein Array oder einen Zeigertyp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(21): error C2109: Index erfordert ein Array oder einen Zeigertyp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(23): error C2109: Index erfordert ein Array oder einen Zeigertyp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(24): error C2109: Index erfordert ein Array oder einen Zeigertyp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(31): warning C4554: "&": Prüfen Sie Operatorrangfolge auf mögliche Fehler; verwenden Sie runde Klammern, um den Vorrang zu verdeutlichen
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(32): error C2065: "X": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(36): error C2601: "optionWaehlen": Lokale Funktionsdefinitionen sind unzulässig
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(29): note: Diese Zeile enthält eine "{", die keine Entsprechung hat.
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(53): error C2601: "main": Lokale Funktionsdefinitionen sind unzulässig
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(29): note: Diese Zeile enthält eine "{", die keine Entsprechung hat.
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\zeichen.cpp(29): fatal error C1075: Keine Entsprechung für das linke Element Klammer "{" am Dateiende gefunden.
+  wurzel-it.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg6\wurzel-it.cpp(14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  Prog2aSS19Üb01Aufg6Main.cpp
+  Prog2aSS19Üb01Aufg6.cpp
+  Prog2aSS19Üb01Aufg1Main.cpp
+  Prog2aSS19Üb01Aufg1.cpp
+  Code wird generiert...
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg1\prog2ass19üb01aufg1.cpp(138): error C4716: "Aufg2": Muss einen Wert zurückgeben
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg1\prog2ass19üb01aufg1.cpp(96): warning C4715: "SummenBerAufg2punkt1": Nicht alle Steuerelementpfade geben einen Wert zurück.
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg1\prog2ass19üb01aufg1.cpp(90): error C4700: Die nicht initialisierte lokale Variable "ergebnis" wurde verwendet.
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\prog2ass19üb01aufg1\prog2ass19üb01aufg1.cpp(103): error C4716: "ProzedurAufg2punkt2": Muss einen Wert zurückgeben

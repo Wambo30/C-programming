@@ -1,0 +1,22 @@
+﻿  StapelIstLeerFehler.cpp
+  stapel-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\probeklausurprog2b\stapel.h(29): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\probeklausurprog2b\stapel.h(40): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Klassen-template "Stapel<T>".
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\probeklausurprog2b\stapel.h(35): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\probeklausurprog2b\stapel.h(102): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\probeklausurprog2b\stapel.h(130): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\probeklausurprog2b\stapel.h(122): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\probeklausurprog2b\stapel.h(110): note: Bei der Kompilierung der Klassen-template der "void Stapel<double>::fuegeHinzu(const T &)"-Memberfunktion
+          with
+          [
+              T=double
+          ]
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\probeklausurprog2b\stapel-main.cpp(11): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-template "void Stapel<double>::fuegeHinzu(const T &)".
+          with
+          [
+              T=double
+          ]
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\probeklausurprog2b\stapel.h(145): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert...
+  ProbeklausurProg2b.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\ProbeklausurProg2b.exe
+  ProbeklausurProg2b.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\ProbeklausurProg2b.pdb (Full PDB)

@@ -1,0 +1,96 @@
+regeln referenzen
+
+________________________________________________________________________________________________________
+regel: call by value
+- hierbei wird immer ne kopie vom originalwert einer variable angefertigt
+--> also es wird mit der kopie des wertes von originalvariable gearbeitet 
+wert wird übergeben durch kopie
+-------------------------------------------------------------------------------------------------
+bsp obda:
+
+#include <iostream>
+using namespace std;
+
+void erhoehe(int a) {
+	a++;
+
+}
+
+int main() {
+
+	int a = 5;
+	erhoehe(a);
+	cout << a << endl;
+
+	system("pause"); // HINREICHEND damit konsole stehen bleibt und ausgabe sehen kann
+	return 0;
+}
+-------------------------------------------------------------------------------------------------
+ausgabe: 5
+grund: es wird hier der wert übergeben UND NICHT die variable selbst!dh man arbeitet NUR mit 5 also 
+dem inhalt und NICHT mit a=5! 
+warum kommt bei erhoehe(a) dann keine fehlermeldung?
+DA wir NUR mit der kopie des inhalts/wertes der variable arbeiten und auf diesen zeigen und NICHT
+mit der eigentlichen variablen im speicher wo der wert hinterlegt ist!!
+somit wird auch keine fehlermeldung angezeigt!
+==> dh wir arbeiten/zeigen OHNE & mit/auf der kopie des wertes der variable und NICHT auf die variable
+im arbeitsspeicher um den wert direkt ändern zu können! 
+
+________________________________________________________________________________________________________
+Regel: referenz- call by reference
+
+Wie können wir es aber so machen das wir direkt auf die variable mit a=5 im arbeitsspeicher zeigen und 
+nicht nur auf die kopie des wertes 5 der variable ?
+Wir nutzen dazu die referenz also & wo wir direkt mit der variable a=5 arbeiten bzw auf die variable
+im arbeitsspeicher zeigen! 
+dh wir nutzen direkt den platz im arbeitsspeicher wo der wert 5 gespeichert wurde als referenz & 
+also OHNE KOPIE! 
+man geht also DIREKT auf die variable a=5 ein.... das ist ein riesen unterschied!
+
+bsp obda referenz:
+------------------------------------------------------------------------------------------------------
+#include <iostream>
+using namespace std;
+
+void erhoehe(int& a) {
+	// mal auch mit diesem wert testen
+	//a = 10;
+	a++;
+
+}
+
+int main() {
+
+	int a = 5;
+	erhoehe(a);
+	cout << a << endl;
+
+	system("pause"); // HINREICHEND damit konsole stehen bleibt und ausgabe sehen kann
+	return 0;
+}
+
+-------------------------------------------------------------------------------------------------------
+ausgabe: 6
+warum? da man nun DIREKT auf den speicher also die variable zeigt, wo der wert 5 also a=5 gespeichert
+wurde! somit wird mit der VARIABLE a=5 gearbeitet was auch von der fkt void erhoehe(int& a)
+gefordert wurde
+==> 
+int& a oder int &a --> zeigen auf variable im speicher um wert für a direkt zu ändern
+				   ==> referenz == anderer name oder alias für variable
+int a --> zeigen auf kopie des wertes der variable um damit zu arbeiten
+
+________________________________________________________________________________________________________
+ regel: schreibweisen referenz &
+
+ bsp obda:
+ 1) int& a
+ 2) int &a
+ 1) und 2) ==> ist beides dasselbe! macht kein unterschied wo man & in signatur usw setzt!
+________________________________________________________________________________________________________
+
+
+
+
+
+
+________________________________________________________________________________________________________
