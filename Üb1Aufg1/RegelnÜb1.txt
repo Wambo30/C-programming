@@ -1,0 +1,5 @@
+
+Regeln zur üb 1
+themen: dyn array, array, typumwandlung,rekursion, prozedur
+
+
