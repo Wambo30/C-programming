@@ -1,0 +1,14 @@
+﻿  TestStandardFehlerklasse.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\teststandardfehlerklasse\teststandardfehlerklasse.h(24): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\teststandardfehlerklasse\teststandardfehlerklasse.h(25): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+  TestStandardFehlerklasse-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\teststandardfehlerklasse\teststandardfehlerklasse.h(24): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\teststandardfehlerklasse\teststandardfehlerklasse.h(25): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+  Berechnungsklasse.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\teststandardfehlerklasse\teststandardfehlerklasse.h(24): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\teststandardfehlerklasse\teststandardfehlerklasse.h(25): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\teststandardfehlerklasse\berechnungsklasse.cpp(10): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\teststandardfehlerklasse\berechnungsklasse.cpp(17): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+  Code wird generiert...
+  TestStandardFehlerklasse.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\TestStandardFehlerklasse.exe
+  TestStandardFehlerklasse.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\TestStandardFehlerklasse.pdb (Full PDB)

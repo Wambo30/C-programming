@@ -1,0 +1,12 @@
+﻿  DualTEST.cpp
+c:\users\x220\desktop\testha02\dualtest.cpp(50): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\desktop\testha02\dualtest.cpp(64): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\desktop\testha02\dualtest.cpp(129): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\desktop\testha02\dualtest.cpp(130): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\desktop\testha02\dualtest.cpp(139): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\desktop\testha02\dualtest.cpp(140): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\desktop\testha02\dualtest.cpp(256): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Dual-mainTEST.cpp
+  Code wird generiert...
+Polynom-mainTEST.obj : error LNK2005: _main ist bereits in Dual-mainTEST.obj definiert.
+C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\testHA02.exe : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.

@@ -1,0 +1,9 @@
+﻿  UeberschreibenMethode.cpp
+  Person.cpp
+  main-Person.cpp
+  KonstruktorVererbung.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\testprotected\konstruktorvererbung.cpp(27): warning C4305: "Argument": Verkürzung von "int" in "char"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\testprotected\konstruktorvererbung.cpp(27): warning C4309: "Argument": Verkürzung eines konstanten Wertes
+  Code wird generiert...
+  TestProtected.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\TestProtected.exe
+  TestProtected.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\TestProtected.pdb (Full PDB)
