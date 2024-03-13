@@ -1,0 +1,15 @@
+﻿  AmpelImplemationsdatei.cpp
+AmpelImplemationsdatei.cpp(3): error C2373: "Ampel::operator ++": Neudefinition; unterschiedliche Modifizierer
+  c:\users\x220\documents\visual studio 2015\projects\prog2a\blatt26aufg2\Ampel.h(87): note: Siehe Deklaration von "Ampel::operator ++"
+AmpelImplemationsdatei.cpp(45): error C3861: "hatRot": Bezeichner wurde nicht gefunden.
+AmpelImplemationsdatei.cpp(47): error C3861: "hatGelb": Bezeichner wurde nicht gefunden.
+AmpelImplemationsdatei.cpp(49): error C3861: "hatGruen": Bezeichner wurde nicht gefunden.
+AmpelImplemationsdatei.cpp(51): error C2562: "operator <<": "void"-Funktion gibt einen Wert zurück
+  AmpelImplemationsdatei.cpp(42): note: Siehe Deklaration von "operator <<"
+  blatt26aufg2.cpp
+blatt26aufg2.cpp(3): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+blatt26aufg2.cpp(3): warning C4091: " ": Ignoriert auf der linken Seite von "const int", wenn keine Variable deklariert wurde
+blatt26aufg2.cpp(3): error C2143: Syntaxfehler: Es fehlt ";" vor "using namespace"
+blatt26aufg2.cpp(15): error C2678: Binärer Operator "<<": Es konnte kein Operator gefunden werden, der einen linksseitigen Operanden vom Typ "Ampel" akzeptiert (oder keine geeignete Konvertierung möglich)
+  c:\users\x220\documents\visual studio 2015\projects\prog2a\blatt26aufg2\Ampel.h(98): note: kann "void operator <<(std::ostream &,const Ampel &)" sein
+  blatt26aufg2.cpp(15): note: bei Anpassung der Argumentliste "(Ampel, std::ostream)"

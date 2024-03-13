@@ -1,0 +1,29 @@
+﻿  mainVektor2d.cpp
+..\..\..\..\..\Downloads\mainVektor2d.cpp(1): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "Vektor2d.h": No such file or directory
+  KlasseVektor2dÜbung.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2a\klassevektor2dübung\Vektor2d.h(56): error C2061: Syntaxfehler: Bezeichner "ostream"
+c:\users\x220\documents\visual studio 2015\projects\prog2a\klassevektor2dübung\Vektor2d.h(37): error C3861: "sqrt": Bezeichner wurde nicht gefunden.
+c:\users\x220\documents\visual studio 2015\projects\prog2a\klassevektor2dübung\Vektor2d.h(59): error C2065: "ostr": nichtdeklarierter Bezeichner
+KlasseVektor2dÜbung.cpp(33): error C3867: "Vektor2d::x": Keine Standardsyntax; "&" zum Erstellen eines Verweises auf das Member verwenden
+KlasseVektor2dÜbung.cpp(33): error C2440: "=": "double (__thiscall Vektor2d::* )(void)" kann nicht in "double" konvertiert werden
+  KlasseVektor2dÜbung.cpp(33): note: Es gibt keinen Kontext, in dem diese Konvertierung möglich ist
+KlasseVektor2dÜbung.cpp(36): error C3867: "Vektor2d::y": Keine Standardsyntax; "&" zum Erstellen eines Verweises auf das Member verwenden
+KlasseVektor2dÜbung.cpp(36): error C2440: "=": "double (__thiscall Vektor2d::* )(void)" kann nicht in "double" konvertiert werden
+  KlasseVektor2dÜbung.cpp(36): note: Es gibt keinen Kontext, in dem diese Konvertierung möglich ist
+KlasseVektor2dÜbung.cpp(47): error C2065: "_x": nichtdeklarierter Bezeichner
+KlasseVektor2dÜbung.cpp(47): error C2248: "Vektor2d::_x": Kein Zugriff auf private Member, dessen Deklaration in der Vektor2d-Klasse erfolgte.
+  c:\users\x220\documents\visual studio 2015\projects\prog2a\klassevektor2dübung\Vektor2d.h(8): note: Siehe Deklaration von "Vektor2d::_x"
+  c:\users\x220\documents\visual studio 2015\projects\prog2a\klassevektor2dübung\Vektor2d.h(3): note: Siehe Deklaration von "Vektor2d"
+KlasseVektor2dÜbung.cpp(47): error C2065: "_y": nichtdeklarierter Bezeichner
+KlasseVektor2dÜbung.cpp(47): error C2248: "Vektor2d::_y": Kein Zugriff auf private Member, dessen Deklaration in der Vektor2d-Klasse erfolgte.
+  c:\users\x220\documents\visual studio 2015\projects\prog2a\klassevektor2dübung\Vektor2d.h(8): note: Siehe Deklaration von "Vektor2d::_y"
+  c:\users\x220\documents\visual studio 2015\projects\prog2a\klassevektor2dübung\Vektor2d.h(3): note: Siehe Deklaration von "Vektor2d"
+KlasseVektor2dÜbung.cpp(47): error C2660: "Vektor2d::setze": Funktion akzeptiert keine 1 Argumente
+KlasseVektor2dÜbung.cpp(56): error C2065: "_x": nichtdeklarierter Bezeichner
+KlasseVektor2dÜbung.cpp(56): error C2065: "vek": nichtdeklarierter Bezeichner
+KlasseVektor2dÜbung.cpp(56): error C2228: Links von "._x" müssen sich in einer Klasse/Struktur/Union befinden
+  KlasseVektor2dÜbung.cpp(56): note: Typ ist "unknown-type"
+KlasseVektor2dÜbung.cpp(56): error C2065: "_y": nichtdeklarierter Bezeichner
+KlasseVektor2dÜbung.cpp(56): error C2228: Links von "._y" müssen sich in einer Klasse/Struktur/Union befinden
+  KlasseVektor2dÜbung.cpp(56): note: Typ ist "unknown-type"
+KlasseVektor2dÜbung.cpp(56): error C2660: "Vektor2d::setze": Funktion akzeptiert keine 1 Argumente

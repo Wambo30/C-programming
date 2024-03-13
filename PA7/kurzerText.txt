@@ -1,0 +1,9 @@
+Das Trennzeichen in "Erpro-
+bung" muss verschwinden und
+die beiden Absaetze muessen
+optisch getrennt bleiben.
+
+Wenn die Breite kleiner als
+18 wird, wird das Wort
+Programmieraufgabe in
+seiner Zeile getrennt.
