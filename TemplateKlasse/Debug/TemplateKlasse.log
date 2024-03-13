@@ -1,0 +1,24 @@
+﻿  Array-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array-main.cpp(11): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array-main.cpp(15): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array-main.cpp(21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array.h(45): error C2065: "elemente": nichtdeklarierter Bezeichner
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array.h(44): note: Bei der Kompilierung der Klassen-template der "Array<int>::Array(std::size_t,const T &)"-Memberfunktion
+          with
+          [
+              T=int
+          ]
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array-main.cpp(27): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-template "Array<int>::Array(std::size_t,const T &)".
+          with
+          [
+              T=int
+          ]
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array-main.cpp(27): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Klassen-template "Array<int>".
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array.h(47): error C2065: "elemente": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array.h(83): error C2065: "elemente": nichtdeklarierter Bezeichner
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array.h(79): note: Bei der Kompilierung der Klassen-template der "int &Array<int>::operator [](std::size_t)"-Memberfunktion
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array-main.cpp(29): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-template "int &Array<int>::operator [](std::size_t)".
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array.h(73): error C2065: "elemente": nichtdeklarierter Bezeichner
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array.h(72): note: Bei der Kompilierung der Klassen-template der "Array<int>::~Array(void)"-Memberfunktion
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array-main.cpp(27): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-template "Array<int>::~Array(void)".
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\templateklasse\array.h(73): error C2541: "delete": Objekte, die keine Zeiger sind, können nicht gelöscht werden
