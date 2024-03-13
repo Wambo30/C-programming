@@ -1,0 +1,7 @@
+﻿  Aufg2Ferien.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\lsgaltklausur2prog2a\aufg2ferien.cpp(37): error C2371: "array": Neudefinition; unterschiedliche Basistypen
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\lsgaltklausur2prog2a\aufg2ferien.cpp(33): note: Siehe Deklaration von "array"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\lsgaltklausur2prog2a\aufg2ferien.cpp(39): error C2440: "=": "Aufg2Ferien" kann nicht in "int" konvertiert werden
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\lsgaltklausur2prog2a\aufg2ferien.cpp(39): note: Kein benutzerdefinierter Konvertierungsoperator verfügbar, der diese Konvertierung durchführen kann, oder der Operator kann nicht aufgerufen werden
+  Aufg2Datum.cpp
+  Code wird generiert...

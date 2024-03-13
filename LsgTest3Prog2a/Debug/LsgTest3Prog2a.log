@@ -1,0 +1,6 @@
+﻿  Aufg2Test3.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\lsgtest3prog2a\aufg2test3.cpp(53): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\lsgtest3prog2a\aufg2test3.cpp(54): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\lsgtest3prog2a\aufg2test3.cpp(62): warning C4305: "=": Verkürzung von "double" in "float"
+  LsgTest3Prog2a.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\LsgTest3Prog2a.exe
+  LsgTest3Prog2a.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\LsgTest3Prog2a.pdb (Full PDB)

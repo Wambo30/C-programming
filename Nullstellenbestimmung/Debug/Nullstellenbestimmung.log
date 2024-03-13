@@ -1,0 +1,4 @@
+﻿  Nullstelle.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\nullstellenbestimmung\nullstelle.cpp(6): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  Nullstellenbestimmung.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\Nullstellenbestimmung.exe
+  Nullstellenbestimmung.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\Nullstellenbestimmung.pdb (Full PDB)
