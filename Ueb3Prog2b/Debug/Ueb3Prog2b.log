@@ -1,0 +1,16 @@
+﻿  ErrorUeb3.cpp
+  DatumExcep.cpp
+  CalculatorUeb3.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3prog2b\calculatorueb3.h(14): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3prog2b\calculatorueb3.h(15): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3prog2b\calculatorueb3.h(16): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3prog2b\calculatorueb3.cpp(11): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3prog2b\calculatorueb3.cpp(18): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3prog2b\calculatorueb3.cpp(25): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+  CalculatorUeb3-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3prog2b\calculatorueb3.h(14): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3prog2b\calculatorueb3.h(15): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3prog2b\calculatorueb3.h(16): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+  Code wird generiert...
+  Ueb3Prog2b.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\Ueb3Prog2b.exe
+  Ueb3Prog2b.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\Ueb3Prog2b.pdb (Full PDB)

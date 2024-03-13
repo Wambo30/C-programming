@@ -1,0 +1,13 @@
+﻿  PolynomUeb3.cpp
+  PolynomUeb3-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg4\polynomueb3-main.cpp(27): error C2059: Syntaxfehler: "["
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg4\polynomueb3-main.cpp(30): error C2061: Syntaxfehler: Bezeichner "out_of_range"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg4\polynomueb3-main.cpp(30): error C2310: catch-Handler muss einen Typ angeben
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg4\polynomueb3-main.cpp(31): error C2039: "cout": Ist kein Element von "PolynomUeb3"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg4\polynomueb3.h(14): note: Siehe Deklaration von "PolynomUeb3"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg4\polynomueb3-main.cpp(31): error C2039: "e": Ist kein Element von "PolynomUeb3"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg4\polynomueb3.h(14): note: Siehe Deklaration von "PolynomUeb3"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg4\polynomueb3-main.cpp(31): error C2039: "what": Ist kein Element von "PolynomUeb3"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg4\polynomueb3.h(14): note: Siehe Deklaration von "PolynomUeb3"
+  IndexFehler.cpp
+  Code wird generiert...

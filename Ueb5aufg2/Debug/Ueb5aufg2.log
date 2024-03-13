@@ -1,0 +1,6 @@
+﻿  Matrix.cpp
+  Matrix-main.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb5aufg2\matrix-main.cpp(12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  Code wird generiert...
+  Ueb5aufg2.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\Ueb5aufg2.exe
+  Ueb5aufg2.vcxproj -> C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\Ueb5aufg2.pdb (Full PDB)

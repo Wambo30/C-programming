@@ -1,0 +1,17 @@
+﻿  RationalUeb3.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\fractionerror.h(14): error C2011: "NullDivisionError": "class" Typneudefinition
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\nulldenominator.h(14): note: Siehe Deklaration von "NullDivisionError"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\fractionerror.h(21): error C2011: "NullDenominatorError": "class" Typneudefinition
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\nulldenominator.h(20): note: Siehe Deklaration von "NullDenominatorError"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\rationalueb3.cpp(20): error C2027: Verwendung des undefinierten Typs "NullDenominatorError"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\nulldenominator.h(20): note: Siehe Deklaration von "NullDenominatorError"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\nulldenominator.h(20): note: Siehe Deklaration von "NullDenominatorError"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\rationalueb3.cpp(38): error C2027: Verwendung des undefinierten Typs "NullDenominatorError"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\nulldenominator.h(20): note: Siehe Deklaration von "NullDenominatorError"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\nulldenominator.h(20): note: Siehe Deklaration von "NullDenominatorError"
+c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\rationalueb3.cpp(53): error C2027: Verwendung des undefinierten Typs "NullDivisionError"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\nulldenominator.h(14): note: Siehe Deklaration von "NullDivisionError"
+  c:\users\x220\documents\visual studio 2015\projects\prog2ss19fügenschuh\ueb3aufg3\nulldenominator.h(14): note: Siehe Deklaration von "NullDivisionError"
+  RationalUeb3-main.cpp
+  FractionError.cpp
+  Code wird generiert...
