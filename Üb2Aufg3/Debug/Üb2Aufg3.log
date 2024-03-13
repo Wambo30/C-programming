@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_winmain.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_WinMain@16" in Funktion ""int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)".
+C:\Users\X220\documents\visual studio 2015\Projects\Prog2SS19Fügenschuh\Debug\Üb2Aufg3.exe : fatal error LNK1120: 1 nicht aufgelöste Externe
