@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(45): error C2601: "fastGleich": Lokale Funktionsdefinitionen sind unzulässig
+  main.cpp(9): note: Diese Zeile enthält eine "{", die keine Entsprechung hat.
+main.cpp(46): error C2065: "FAKTOR": nichtdeklarierter Bezeichner
+main.cpp(46): error C2789: MAX_DIFF: Ein Objekt eines durch eine Konstante qualifizierten Typs muss initialisiert werden.
+  main.cpp(46): note: Siehe Deklaration von "MAX_DIFF"
+main.cpp(47): error C3861: "betrag": Bezeichner wurde nicht gefunden.

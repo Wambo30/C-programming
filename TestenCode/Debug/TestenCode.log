@@ -1,0 +1,9 @@
+﻿  TestenCode.cpp
+c:\users\x220\documents\visual studio 2015\projects\prog2a\testencode\testencode.cpp(30): error C2079: "outputdatei" verwendet undefiniertes class "std::basic_ofstream<char,std::char_traits<char>>"
+c:\users\x220\documents\visual studio 2015\projects\prog2a\testencode\testencode.cpp(30): error C2440: "Initialisierung": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" kann nicht in "int" konvertiert werden
+  c:\users\x220\documents\visual studio 2015\projects\prog2a\testencode\testencode.cpp(30): note: Kein benutzerdefinierter Konvertierungsoperator verfügbar, der diese Konvertierung durchführen kann, oder der Operator kann nicht aufgerufen werden
+c:\users\x220\documents\visual studio 2015\projects\prog2a\testencode\testencode.cpp(35): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "neueDatei"
+c:\users\x220\documents\visual studio 2015\projects\prog2a\testencode\testencode.cpp(35): error C2275: "std::string": Ungültige Verwendung dieses Typs als Ausdruck
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2634): note: Siehe Deklaration von "std::string"
+c:\users\x220\documents\visual studio 2015\projects\prog2a\testencode\testencode.cpp(35): error C2065: "neueDatei": nichtdeklarierter Bezeichner
+c:\users\x220\documents\visual studio 2015\projects\prog2a\testencode\testencode.cpp(42): error C2143: Syntaxfehler: Es fehlt ";" vor "return"
